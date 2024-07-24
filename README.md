@@ -1,4 +1,4 @@
-# Data_Analyst-Project
+# Data Analysis on Pizza Sales
 Project Learnings
 •	Created interactive dashboard to track and analyse online sales data.
 •	Used SQL queries to calculate data and generated a visual report using these calculated data.
